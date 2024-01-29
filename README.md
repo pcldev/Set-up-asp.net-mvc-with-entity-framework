@@ -2,7 +2,7 @@
 
 ## Prerequisites:
 1. Ensure that you have [installed the .NET SDK](https://dotnet.microsoft.com/en-us/download).
-2. Install Docker to manage SqlServer and Azure Data Studio for database connectivity.
+2. Install Docker to manage SqlServer and Azure Data Studio for database connectivity. ([consult](https://lucidgen.com/en/how-to-install-sql-server-and-azure-for-mac/))
 
 ## Installations:
 
